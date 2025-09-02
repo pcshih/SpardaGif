@@ -15,5 +15,7 @@
 - 📝 [Google Docs](https://docs.google.com/document/d/1TkKgYelDop5tB_cQuMXsIEO4DbcEAByL_ec5WroHYFk/edit?usp=sharing) to view documentation of SpardaGif
 
 ## 📜 Changelog
+### ✨ v2025.09.02.0
+- Add icon to exe
 ### ✨ v2025.09.01.0
 - 🚀 First Launch
